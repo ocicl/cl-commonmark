@@ -5,7 +5,7 @@ optional GFM tables extension.
 
 |---------+-----------------------------------------------------------|
 | source  | git:https://cave.moxielogic.com/atgreen/cl-commonmark.git |
-| commit  | ee5144b                                                   |
+| commit  | 0000000                                                   |
 | systems | cl-commonmark                                             |
 |---------+-----------------------------------------------------------|
  
